@@ -18,15 +18,15 @@ This project focuses on food image classification using Deep Learning techniques
 
 Food Classification Using Deep Learning is an advanced Computer Vision project developed using Deep Learning and Convolutional Neural Networks (CNNs) to automatically classify food images into different categories.
 
-This project combines:
+ - This project combines:
 
-Custom CNN Architecture
-Transfer Learning using VGG16
-Transfer Learning using ResNet50
-Image Preprocessing
-Data Augmentation
-Model Evaluation
-Flask Deployment
+  - Custom CNN Architecture
+  - Transfer Learning using VGG16
+  - Transfer Learning using ResNet50
+  - Image Preprocessing
+  - Data Augmentation
+  - Model Evaluation
+  - Flask Deployment
 
 The system predicts food categories from uploaded images and provides real-time classification through a Flask web application.
 
