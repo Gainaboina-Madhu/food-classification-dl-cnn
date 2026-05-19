@@ -387,21 +387,26 @@ Food-Classification-Using-Deep-Learning/
 ### Installation & Setup
 
 
-# 1. Clone the repository
+- **1. Clone the repository**
+  
   - git clone https://github.com/your-username/Food-Classification-Using-Deep-Learning.git
 
-# 2. Navigate into the project folder
-cd Food-Classification-Using-Deep-Learning
+-  **2. Navigate into the project folder**
+  
+  - cd Food-Classification-Using-Deep-Learning
 
-# 3. (Optional but recommended) Create a virtual environment
-python -m venv venv
-source venv/bin/activate          # On Windows: venv\Scripts\activate
+-  **3. (Optional but recommended) Create a virtual environment**
+  
+  - python -m venv venv
+  - source venv/bin/activate          # On Windows: venv\Scripts\activate
 
-# 4. Install all required dependencies
-pip install -r requirements.txt
+-  **4. Install all required dependencies**
+  
+  - pip install -r requirements.txt
 
-# 5. Run the Flask web application
-python app.py
+-  **5. Run the Flask web application**
+  
+  - python app.py
 
 
 ### Usage
