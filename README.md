@@ -29,7 +29,7 @@ This project presents a complete end-to-end **Food Classification System** that:
 
 ## 🎯 Objectives
 
-- ✅ Automatically classify food images into 12 distinct categories
+- ✅ Automatically classify food images into 34 distinct categories across Indian, Western, and Asian cuisines
 - ✅ Build and train a Custom CNN model from scratch
 - ✅ Leverage pretrained VGG16 and ResNet50 models via Transfer Learning
 - ✅ Apply data augmentation to prevent overfitting and improve generalization
@@ -40,9 +40,37 @@ This project presents a complete end-to-end **Food Classification System** that:
 
 ## 🍔 Food Categories
 
-The model classifies images across **12 food categories**:
+The model classifies images across **34 food categories** spanning Indian, Western, and Asian cuisines:
 
-`Pizza` · `Burger` · `Sandwich` · `Ice Cream` · `Pasta` · `Cake` · `Donuts` · `Fries` · `Salad` · `Sushi` · `Tacos` · `Noodles`
+### 🇮🇳 Indian Foods
+| # | Class | # | Class |
+|---|---|---|---|
+| 1 | Butter Naan | 2 | Pav Bhaji |
+| 3 | Chicken Curry | 4 | Kadai Paneer |
+| 5 | Chapati | 6 | Masala Dosa |
+| 7 | Dal Makhani | 8 | Jalebi |
+| 9 | Chole Bhature | 10 | Kulfi |
+| 11 | Kaathi Rolls | 12 | Dhokla |
+| 13 | Pakode | 14 | Paani Puri |
+| 15 | Samosa | 16 | Idli |
+| 17 | Chai | | |
+
+### 🍔 Western / Fast Foods
+| # | Class | # | Class |
+|---|---|---|---|
+| 18 | Burger | 19 | Pizza |
+| 20 | Hot Dog | 21 | Sandwich |
+| 22 | Fries | 23 | Baked Potato |
+| 24 | Donut | 25 | Cheesecake |
+| 26 | Apple Pie | 27 | Crispy Chicken |
+| 28 | Taco | 29 | Taquito |
+
+### 🌏 Asian / Other
+| # | Class | # | Class |
+|---|---|---|---|
+| 30 | Sushi | 31 | Momos |
+| 32 | Fried Rice | 33 | Ice Cream |
+| 34 | Omelette | | |
 
 ---
 
@@ -105,7 +133,7 @@ The system follows a clean pipeline from raw image input to predicted food categ
 | Attribute | Details |
 |---|---|
 | Problem Type | Multi-Class Image Classification |
-| Number of Classes | 12 food categories |
+| Number of Classes | 34 food categories (Indian, Western, Asian) |
 | Input Type | RGB food images |
 | Image Format | JPG / PNG |
 | Input Shape | 224 × 224 × 3 |
