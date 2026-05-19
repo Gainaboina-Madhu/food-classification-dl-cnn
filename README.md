@@ -439,8 +439,8 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Madhu**
-Machine Learning & Deep Learning Enthusiast
+# Gainaboina Madhu
+
 
 ---
 
