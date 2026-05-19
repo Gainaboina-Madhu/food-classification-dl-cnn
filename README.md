@@ -11,16 +11,6 @@ This project focuses on food image classification using Deep Learning techniques
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?style=for-the-badge&logo=tensorflow"> <img src="https://img.shields.io/badge/Keras-CNN-red?style=for-the-badge&logo=keras"> <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-green?style=for-the-badge&logo=opencv"> <img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask"> <img src="https://img.shields.io/badge/Model-Custom_CNN-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Transfer_Learning-VGG16_&_ResNet50-purple?style=for-the-badge"> </p>
 <p align="center"> <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1400&auto=format&fit=crop" width="100%"> </p>
 
----
-
-# 🍕 Food Classification Using Deep Learning
-
-> Automatic food image classification using Custom CNN, VGG16, and ResNet50 transfer learning — deployed with a Flask web application.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
-![Flask](https://img.shields.io/badge/Flask-Web%20App-lightgrey?style=flat-square&logo=flask)
-![Accuracy](https://img.shields.io/badge/Best%20Accuracy-97%25-brightgreen?style=flat-square)
 
 ---
 
