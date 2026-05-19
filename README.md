@@ -386,9 +386,9 @@ Food-Classification-Using-Deep-Learning/
 
 ### Installation & Setup
 
-```bash
+
 # 1. Clone the repository
-git clone https://github.com/your-username/Food-Classification-Using-Deep-Learning.git
+  - git clone https://github.com/your-username/Food-Classification-Using-Deep-Learning.git
 
 # 2. Navigate into the project folder
 cd Food-Classification-Using-Deep-Learning
@@ -402,7 +402,7 @@ pip install -r requirements.txt
 
 # 5. Run the Flask web application
 python app.py
-```
+
 
 ### Usage
 1. Open your browser and navigate to `http://127.0.0.1:5000`
